@@ -1,1 +1,2 @@
-'Adding hello_c file' 
+'Adding hello_c file'
+print("Hello C")
